@@ -53,3 +53,7 @@ The purpose of this project is to practice TypeScript and understand how object-
 ## Author
 
 Created as part of an Object-Oriented Programming course assignment.
+
+## UML Class Diagram
+
+![UML Class Diagram](uml-diagram.png)
